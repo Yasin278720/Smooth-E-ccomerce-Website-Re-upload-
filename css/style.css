@@ -8,6 +8,11 @@
 }
 
 
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
 
 header .up {
     height: 50px;
